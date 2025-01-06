@@ -2,7 +2,7 @@
 
 
 <h2>1. Download and Install Proxy SwitchySharp</h2>
-To begin using Proxy SwitchySharp, you need to install the extension on your Chrome browser. Follow these steps:
+To begin using <a href="https://momoproxy.com/blog/proxy-switchysharp">Proxy SwitchySharp</a>, you need to install the extension on your Chrome browser. Follow these steps:
 
 <li>Go to the Chrome Web Store</li>
 Open the Chrome Web Store in your browser.
