@@ -1,4 +1,4 @@
-Guide to Setting Up Proxy SwitchySharp
+<h1>Guide to Setting Up Proxy SwitchySharp</h1>
 
 
 <h2>1. Download and Install Proxy SwitchySharp</h2>
