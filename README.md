@@ -80,3 +80,5 @@ Visit different websites and see if the rules you set up automatically switch to
 By following these steps, you can effectively set up and manage Proxy SwitchySharp to meet your proxy-switching needs for secure and efficient browsing.
 
 <a href="https://momoproxy.com">Get 50MB Free Trial of Residential Proxies</a>
+For more please read the original article:
+https://momoproxy.com/blog/proxy-switchysharp
